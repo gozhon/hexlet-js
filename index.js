@@ -1,6 +1,4 @@
-import _ from "lodash";
-import { sayHello } from "./src/index.js";
+import _ from 'lodash';
+import { sayHello } from './src/index';
 
 sayHello('John');
-
-console.log(_.last(["one", "two"]));
